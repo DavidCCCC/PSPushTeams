@@ -10,7 +10,7 @@
 #>
 
 #Teams webhook url
-$uri = "[INSERT WEBHOOK URL]"
+$uri = "https://outlook.office.com/webhook/3d780012-4a64-47cb-b438-3e269e7f250f@d7e90ae5-6cac-4082-abce-5452c5b28b15/IncomingWebhook/fcf9a15624ab4488995b5fa54c640f2c/015f6075-5124-46d3-9575-8faf6b891d92"
 
 #Image on the left hand side, here I have a regular user picture
 $ItemImage = 'https://img.icons8.com/color/1600/circled-user-male-skin-type-1-2.png'
